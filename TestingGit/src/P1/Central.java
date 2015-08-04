@@ -9,6 +9,7 @@ public class Central {
 		System.out.println("Test 1");
 		System.out.println("Test 2, from other Eclipse workspace");
 		System.out.println("Test 3, from this Eclipse workspace");
+		System.out.println("Test 4, from other Eclipse workspace");
 		
 	}
 }
